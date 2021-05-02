@@ -1,0 +1,7 @@
+flask
+python-telegram-bot
+requests
+spacy
+networkx
+sklearn
+beautifulsoup4
