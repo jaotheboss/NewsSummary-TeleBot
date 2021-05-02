@@ -5,14 +5,14 @@ Reference: https://github.com/python-telegram-bot/python-telegram-bot/wiki/Exten
 import os
 os.chdir('/Users/jaoming/Documents/Active Projects/Text Summarisation')
 
-import ExtractiveSummary_forbot as es                   # Extractive Summary module
+import src.ExtractiveSummary_forbot as es                   # Extractive Summary module
 
 import telegram
 from telegram.ext import Updater
 from telegram.ext import CommandHandler          # for handling commands ie. /start
 
 # initialising the bot token and the bot itself
-bot_token = "1025831290:AAFf5_na0fi7xxHRfB4qNII1mOFe-N2P09k"
+bot_token = ###
 bot = telegram.Bot(token = bot_token)
 # print(bot.get_me()) # getting details of the bot
 
