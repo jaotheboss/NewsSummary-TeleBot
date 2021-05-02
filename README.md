@@ -1,4 +1,4 @@
-# NewsSummary-Telegram-Bot
+# Summarizing News via Telegram Bot
 A telegram bot that is able to extract the summary of news from Singapore's Straits Times. 
 ![Bot in Action](https://github.com/jaotheboss/NewsSummary-Telegram-Bot/blob/master/images/Bot%20in%20Action.png)
 
